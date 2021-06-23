@@ -1,0 +1,9 @@
+﻿  Reading Qt configuration (C:/Qt/Qt5.12.3/5.12.3/msvc2017_64/bin/qmake)
+  dianzulv.cpp
+  main.cpp
+c:\users\js105498\desktop\dianzulv\dianzulv\dianzulv.cpp(121): warning C4172: 返回局部变量或临时变量的地址: vecNum
+c:\users\js105498\desktop\dianzulv\dianzulv\dianzulv.cpp(211): warning C4172: 返回局部变量或临时变量的地址: vecNum_point
+  qrc_dianzulv.cpp
+  moc_dianzulv.cpp
+    正在创建库 C:\Users\JS105498\Desktop\dianzulv\x64\Release\dianzulv.lib 和对象 C:\Users\JS105498\Desktop\dianzulv\x64\Release\dianzulv.exp
+  dianzulv.vcxproj -> C:\Users\JS105498\Desktop\dianzulv\x64\Release\dianzulv.exe
